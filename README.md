@@ -1,4 +1,4 @@
-# SAM AI Technologies — Task 3
+# SAM AI Technologies — Task 1
 ## Object Detection
 
 A Streamlit object-detection application using the pre-trained YOLO11n model.
